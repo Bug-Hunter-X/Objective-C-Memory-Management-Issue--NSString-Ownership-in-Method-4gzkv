@@ -1,0 +1,1 @@
+This repository demonstrates a common Objective-C memory management error related to NSString ownership within a method.  The `bug.m` file shows the erroneous code, leading to potential memory leaks or crashes.  The `bugSolution.m` file provides a corrected version demonstrating proper handling of object ownership to prevent issues.
